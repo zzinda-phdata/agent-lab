@@ -1,0 +1,10 @@
+numexpr==2.10.2
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langchain-openai==0.3.18
+langgraph==0.3.29
+langgraph-prebuilt==0.1.8
+langchain-tavily==0.2.0
+pip-system-certs==4.0
+ipykernel==6.29.5
